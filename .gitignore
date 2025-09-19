@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+outputs*/
+outputs/
+*.png
+*.csv
+*.json
+.DS_Store
